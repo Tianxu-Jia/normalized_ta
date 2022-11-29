@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "normalized_ta"
+  site-url: "https://Tianxu-Jia.github.io/normalized_ta"
+  description: "In speculative market analysis, many technical indicators are nor nomalied. For comparing in the whole markt, this library calculates the normalized TAs"
+  repo-branch: main
+  repo-url: "https://github.com/Tianxu-Jia/normalized_ta"
